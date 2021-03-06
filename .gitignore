@@ -3,12 +3,14 @@ notes/
 .DS_Store
 
 *.ipynb_checkpoints
+*.csv
 *.pyc 
 *.png
 
 Project1/src/plots/
 Project1/src/__pycache__
 Project1/src/data/
+Prokect1/data/
 Project1/src/*.ipynb
 
 
@@ -17,6 +19,7 @@ Project2/src/Test.ipynb
 Project2/src/light*
 Project2/src/*.ipynb
 Project2/src/data/
+Project2/data/
 
 Project3/submission/
 Project3/mnist_data/
